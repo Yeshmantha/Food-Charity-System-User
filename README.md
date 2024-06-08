@@ -1,6 +1,6 @@
 # Food Charity System - User
 
-This project aims to establish a food charity system to ensure that those in need receive necessary food assistance. The system enables users to register, manage donations, and interact through blogs.
+The project aimed to create a mobile app for a food charity system that facilitates registration, donation management, and online interaction for those in need. Users can easily register, manage donations, and engage with the community through the application, ensuring efficient support for individuals facing food insecurity.
 
 ### Technologies Used
 - **Backend:** Firebase
